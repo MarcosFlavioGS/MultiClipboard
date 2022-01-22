@@ -1,4 +1,4 @@
-﻿import sys
+import sys
 import clipboard
 import json
 # Comentário mais para me lembrar que quando o erro  : AttributeError: partially initialized module 'MODULE_NAME' has no attribute... 
